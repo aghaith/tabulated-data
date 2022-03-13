@@ -1,4 +1,4 @@
-Senior React interview question
+Senior React interview
 
 Visualizing the tabulated data in React
 
